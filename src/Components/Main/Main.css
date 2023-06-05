@@ -1,0 +1,30 @@
+.main{
+    background-color: rgb(249, 245, 245);
+    color: rgb(8, 7, 7);
+    display: flex;
+    padding: 100px;
+}
+.main01{
+    width: 33%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main02{
+    width: 33%;
+    width: 33%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main03{
+    width: 33%;
+    width: 33%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    width: 300px;
+    height: 300px;
+}
